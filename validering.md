@@ -7,4 +7,6 @@ länken till lansstyrelsen naturreservat sida om Döda fallet fungerade inte nog
 byte namn på ena av bilderna så att det blir letare att länka till bilden också försökte jag fiksa background-image men har inte lykats (komer till baka till deta.)
 skapade en GitHub Pages och sedan anvende jag en html validator (https://validator.nu/) och börjar fixa fel som den spotar utt som jag inte ser.
 leäkarna i navet hade inget <li> element som deom ska ha efter som dom är i en lista/<ul> element.
-texten åvanför bilden hade två olika element ( började med ett <h3> och slutade på en <h2>) fixade genom att byta till en <h3> element.¨
+texten åvanför bilden hade två olika element ( började med ett <h3> och slutade på en <h2>) fixade genom att byta till en <h3> element.
+endrade "namne" på sidan så att det kommer att stå Döda fallet istele för dokument.
+hede till <meta charset="UTF-8"> så att den vet att det är utf-8.
