@@ -15,3 +15,4 @@ lade till lang="sv" på första <html> så att när man ladadr in sidan så för
 tog bort ett li slut element som inte anvends längre.
 jag fixade till bilden på läget till böda falet genom att typ ta cåden från wikipedia och endra om den lite eftersom att jag vile ha den röda priken också. 
 så jag hitade elementen för bilden på wikipenia, kopy paistade den på platsen som bilden var normalt, tog bort kåd som inte behövs/anvens för något, endrade urlen till bilderna så att det inte till wikis bilder utan bilderna i mapen och så hede jag in en ny bild för röda priken (Reddot.png). 
+städade upp kåden runt bilden med validator.
