@@ -10,3 +10,4 @@ leäkarna i navet hade inget <li> element som deom ska ha efter som dom är i en
 texten åvanför bilden hade två olika element ( började med ett <h3> och slutade på en <h2>) fixade genom att byta till en <h3> element.
 endrade "namne" på sidan så att det kommer att stå Döda fallet istele för dokument.
 hede till <meta charset="UTF-8"> så att den vet att det är utf-8.
+lade till lang="sv" på första <html> så att när man ladadr in sidan så förstår den att det är skriven på svenska.
