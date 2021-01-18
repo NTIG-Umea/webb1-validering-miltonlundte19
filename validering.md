@@ -22,3 +22,5 @@ fixade tidsinheter vid (1720-1799) genom att seta dit två time eftersom att det
 2021-01-18
 Endrade upplösningen och storleken på bakrundsbillden så att man kan lada in den på semre nätverk.
 fisade ett stavfell på <paddin-top:> som ska stå <padding-top:> (saknar ett g)
+fixade fel som hanlade med css kåden som att man ska ha en "enhet" bakom sifrorna som <rem> så att den vet vilken storleks skalning den ska anvenda också endrade jag en < till , för att få den att fingera
+fiksade en css bit för att gjöra en bitenstrek för h2 ellementen också satte jag en margin-rite på en av dem så att streket inte skule vara bakom bilden
