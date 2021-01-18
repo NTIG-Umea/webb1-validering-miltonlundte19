@@ -1,23 +1,25 @@
 body {
-  background-image: url('img/stenar.jpg');
+  background-image: url('../img/stenar.jpg');
   background-size: cover;
   background-color: #666666;
   font-size: 1rem;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
-  /*background-image: url('img/stenar.jpg');*/
 }
 
 main, header, footer {
   width: 80%;
   margin: 0 auto;
-  padding: 1rem;
-  background-color: rgba(66, 66, 66, 0.4);
+  background-color: rgba(66, 66, 66, 0.6);
   color: #efefef;
+}
+.pad{
+  padding: 1rem;
 }
 
 footer {
   padding-top: 3rem;
+  padding-bottom: 1rem;
 }
 
 p {
@@ -49,5 +51,5 @@ h2 {
 }
 
 .footer {
-
+  background-color: rgba(66, 66, 66, 0.9);
 }
