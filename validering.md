@@ -19,4 +19,6 @@ städade upp kåden runt bilden med validator.
 H1 elementet i början av kan inte ha atrebuten center så jag tog bort den.
 fixade tidsinheter vid (1720-1799) genom att seta dit två time eftersom att det verkar som att time är bara för ett datom.
 
+2021-01-18
 Endrade upplösningen och storleken på bakrundsbillden så att man kan lada in den på semre nätverk.
+fisade ett stavfell på <paddin-top:> som ska stå <padding-top:> (saknar ett g)
