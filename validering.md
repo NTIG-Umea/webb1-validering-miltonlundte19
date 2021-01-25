@@ -29,3 +29,4 @@ fiksade också så att det blir en anan ferg vid fottern men jag utökade den at
 
 2021-01-25
 fiksade style på topen av texten genom att ta bort marginen på topen av <h1> ellementet och sate dit en på sidan så att den ska laina upp med resten av texten också sate jag en pading på topen av elimente.
+fiksade utrymena på slutet av sidan så att det ser bra ut genom att modifiera padings och margins på den.
