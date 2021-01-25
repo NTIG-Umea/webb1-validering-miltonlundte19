@@ -26,3 +26,6 @@ fixade fel som hanlade med css kåden som att man ska ha en "enhet" bakom sifror
 fiksade en css bit för att gjöra en bitenstrek för h2 ellementen också satte jag en margin-rite på en av dem så att streket inte skule vara bakom bilden
 fiksade bakrunds bilden genom att endra derektivet från att den inte skule söka i <stylesheets> genom att setta ../ i början av sökvägen för bilden så att den söker från början mapen/hella "mapen". 
 fiksade också så att det blir en anan ferg vid fottern men jag utökade den att ha refrensen med sej också. men main hade en pading så jag endrade main ellementet så den hade två div och så skapade jag en ny clas för att få till baka padingen på resten av teksten. sate en pading-boten på fotern så att det ska vara lite mer rum till slutet av dokumentet.
+
+2021-01-25
+fiksade style på topen av texten genom att ta bort marginen på topen av <h1> ellementet och sate dit en på sidan så att den ska laina upp med resten av texten också sate jag en pading på topen av elimente.
